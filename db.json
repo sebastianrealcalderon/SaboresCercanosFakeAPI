@@ -132,9 +132,7 @@
       "name": "Estrella Torres",
       "favorite": false,
       "gender": "femenino",
-      "rating": 4
-    }
-  ],
+      "rating": 4 }],
   "dishes": [
     {
       "id": 1,
