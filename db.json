@@ -36,23 +36,6 @@
       "pricePerUnit": 13
     }
   ],
-  "payment-methods": [
-    {
-      "id": 1,
-      "name": "Efectivo",
-      "logo": "assets/payment-method-logos/efectivo-logo"
-    },
-    {
-      "id": 2,
-      "name": "Tarjeta",
-      "logo": "assets/payment-method-logos/tarjeta-logo"
-    },
-    {
-      "id": 3,
-      "name": "Yape",
-      "logo": "assets/payment-method-logos/yape-logo"
-    }
-  ],
   "orders": [
     {
       "id": 1,
