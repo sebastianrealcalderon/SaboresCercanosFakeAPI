@@ -155,8 +155,7 @@
         "Fríe los filetes en abundante aceite caliente hasta que estén dorados y crujientes.",
         "Sirve la milanesa acompañada del puré de papas."
       ],
-      "favorite": false,
-      "price": 14.5
+      "favorite": false
     },
     {
       "id": 2,
@@ -179,8 +178,7 @@
         "Incorpora el tomate triturado, sal y pimienta, y deja cocinar a fuego lento.",
         "Sirve los spaghetti con la salsa y espolvorea con queso parmesano."
       ],
-      "favorite": true,
-      "price": 10.5
+      "favorite": true
     },
     {
       "id": 3,
@@ -201,8 +199,7 @@
         "Cocina por ambos lados hasta dorar.",
         "Sirve con miel y frutas al gusto."
       ],
-      "favorite": true,
-      "price": 17.5
+      "favorite": true
     }
   ]
 }
