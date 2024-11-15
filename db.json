@@ -128,37 +128,30 @@
       "name": "Juan Perez",
       "rating": 3.3,
       "favorite": true,
-      "imageUrl": "/src/assets/chef1.png"
+      "gender": "masculino"
     },
     {
       "id": 2,
       "name": "Lala Lopez",
-      "rating": 4.5,
       "favorite": true,
-      "imageUrl": "/src/assets/chef2.png"
+      "gender": "femenino",
+      "rating": 4.5
     },
     {
       "id": 3,
       "name": "Estefano Jaque",
       "rating": 2,
       "favorite": true,
-      "imageUrl": "/src/assets/chef3.png"
+      "gender": "masculino"
     },
     {
       "id": 4,
-      "name": "Juan Torres",
-      "rating": 5,
+      "name": "Estrella Torres",
       "favorite": false,
-      "imageUrl": "/src/assets/chef4.png"
-    },
-    {
-      "id": 5,
-      "name": "Sebastián Real",
-      "rating": "1.5",
-      "favorite": false,
-      "imageUrl": "/src/assets/chef1.png"
-    }
-  ],
+      "gender": "femenino",
+      "rating": 4
+    }
+  ],
   "dishes": [
     {
       "id": 1,
