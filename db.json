@@ -123,9 +123,9 @@
     {
       "id": 3,
       "name": "Estefano Jaque",
-      "rating": 2,
       "favorite": true,
-      "gender": "masculino"
+      "gender": "masculino",
+      "rating": 2
     },
     {
       "id": 4,
